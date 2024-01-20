@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Congrats yeah!</h1>
+        <h1>Yup,blabla, it's online.</h1>
         <p>CI/CD deployed code via Elastic beanstalk</p>
     </section>
 
